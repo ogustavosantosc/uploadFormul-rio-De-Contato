@@ -1,0 +1,52 @@
+body {
+  font-family: sans-serif;
+}
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+  background-color: #ccc;
+}
+
+.pai {
+  margin: 4px;
+  /*
+  margin: 0px 0px 0px 0px;
+  margin-top: 0px;
+  margin-left:0px;
+  margin-right: 0px;
+  margijn-bottom: 0px;
+  */
+  border: 1px#000 outset;
+  box-shadow: 1px 1px 1px #000;
+}
+
+.nome {
+  margin: 0px 0px 10px 33px;
+}
+
+.tel {
+  margin: 0px 0px 10px 25px;
+}
+
+.email {
+  margin: 0px 0px 10px 37px;
+}
+
+.assunto {
+  margin: 0px 0px 10px 20px;
+}
+
+.message {
+  width: 165px;
+  height: 100px;
+  margin: 0px 0px 10px 0px;
+}
+
+.button {
+  margin: 0px 0px 10px 0px;
+}
